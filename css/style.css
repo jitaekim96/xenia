@@ -209,8 +209,8 @@ a:after {
 }
 
 .navbar-default {
-	background: transparent;
-	border-color: transparent;
+	background: #719ad6;
+    border-color: transparent;
 }
 
 .navbar-default .navbar-brand {
