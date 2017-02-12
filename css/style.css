@@ -268,6 +268,11 @@ i {
     color: #8b8c8c;
 }
 
+.centered {
+    margin-top: 10px;
+    text-align: center;
+}
+
 /* HeaderWrap #5C88DA */
 #headerwrap {
 	/* background: url(../img/bg01.jpg) no-repeat center top; */ 
