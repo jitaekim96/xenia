@@ -389,12 +389,9 @@ img.grayscale:hover {
 
 
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 750px) {
     
-	img {
-    display: block;
-    max-width: 100%;
-	}
+
     #headerwrap {
         height:110%;
         padding-top: 11%;
