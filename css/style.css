@@ -48,6 +48,16 @@ p {
     font-size: 16px;
 }
 
+.centered {
+	  margin-top: 10px;
+    text-align: center;
+}
+
+h1.centered {
+    margin-top: 10px;
+    text-align: center;
+}
+
 h1 #centered {
     margin-top: 10px;
     text-align: center;
@@ -248,6 +258,7 @@ i {
     color: #262626;
     margin-bottom: 10px;
     font-weight: 300;
+	text-align: center;
 }
 
 #team h5 {
@@ -265,6 +276,7 @@ i {
     font-size: 18px;
     font-weight: 400;
     color: #8b8c8c;
+	text-align: center;
 }
 
 .left {
