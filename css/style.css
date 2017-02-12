@@ -117,7 +117,6 @@ img {
     font-size: 40px;
     font-weight: 300;
     line-height: 1.3;
-    text-align: left;
     margin-bottom: 25px;
 }
 
@@ -268,11 +267,9 @@ i {
     color: #8b8c8c;
 }
 
-.centered {
-    margin-top: 10px;
-    text-align: center;
+.left {
+text-align: left;
 }
-
 /* HeaderWrap #5C88DA */
 #headerwrap {
 	/* background: url(../img/bg01.jpg) no-repeat center top; */ 
